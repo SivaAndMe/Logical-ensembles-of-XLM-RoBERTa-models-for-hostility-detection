@@ -1,2 +1,20 @@
 # Logical-ensembles-of-XLM-RoBERTa-models-for-hostility-detection
 Neural network models for hostility identification in Hindi using FARM framework and SkLearn
+
+![SLIDES](/images/Slide4.jpg)
+![SLIDES](/images/Slide5.jpg)
+![SLIDES](/images/Slide6.jpg)
+![SLIDES](/images/Slide7.jpg)
+![SLIDES](/images/Slide8.jpg)
+![SLIDES](/images/Slide9.jpg)
+![SLIDES](/images/Slide10.jpg)
+![SLIDES](/images/Slide11.jpg)
+![SLIDES](/images/Slide12.jpg)
+![SLIDES](/images/Slide13.jpg)
+![SLIDES](/images/Slide14.jpg)
+![SLIDES](/images/Slide15.jpg)
+![SLIDES](/images/Slide16.jpg)
+![SLIDES](/images/Slide17.jpg)
+![SLIDES](/images/Slide18.jpg)
+![SLIDES](/images/Slide19.jpg)
+![SLIDES](/images/Slide21.jpg)
