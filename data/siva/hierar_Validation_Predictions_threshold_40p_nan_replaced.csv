@@ -1,0 +1,812 @@
+Unique ID,Labels Set
+1,non-hostile
+2,"hate, defamation, offensive"
+3,non-hostile
+4,non-hostile
+5,non-hostile
+6,non-hostile
+7,non-hostile
+8,fake
+9,non-hostile
+10,non-hostile
+11,non-hostile
+12,non-hostile
+13,"hate, offensive"
+14,fake
+15,hate
+16,offensive
+17,non-hostile
+18,"defamation, offensive"
+19,non-hostile
+20,"hate, defamation, offensive"
+21,fake
+22,fake
+23,non-hostile
+24,non-hostile
+25,non-hostile
+26,non-hostile
+27,non-hostile
+28,non-hostile
+29,offensive
+30,non-hostile
+31,fake
+32,"hate, defamation, offensive"
+33,non-hostile
+34,fake
+35,hate
+36,"hate, defamation, offensive"
+37,non-hostile
+38,non-hostile
+39,fake
+40,non-hostile
+41,non-hostile
+42,non-hostile
+43,"hate, defamation, offensive"
+44,non-hostile
+45,non-hostile
+46,non-hostile
+47,non-hostile
+48,non-hostile
+49,non-hostile
+50,hate
+51,non-hostile
+52,non-hostile
+53,fake
+54,fake
+55,non-hostile
+56,"hate, offensive"
+57,fake
+58,non-hostile
+59,non-hostile
+60,non-hostile
+61,fake
+62,"hate, defamation, offensive"
+63,non-hostile
+64,"hate, defamation, offensive"
+65,non-hostile
+66,non-hostile
+67,non-hostile
+68,non-hostile
+69,"defamation, offensive"
+70,non-hostile
+71,non-hostile
+72,non-hostile
+73,non-hostile
+74,non-hostile
+75,fake
+76,"hate, defamation, offensive"
+77,"hate, offensive"
+78,"hate, defamation, offensive"
+79,non-hostile
+80,"hate, defamation, offensive"
+81,non-hostile
+82,non-hostile
+83,non-hostile
+84,non-hostile
+85,"hate, defamation, offensive"
+86,non-hostile
+87,offensive
+88,fake
+89,non-hostile
+90,fake
+91,non-hostile
+92,"hate, defamation, offensive"
+93,non-hostile
+94,non-hostile
+95,non-hostile
+96,non-hostile
+97,"hate, offensive"
+98,non-hostile
+99,offensive
+100,fake
+101,non-hostile
+102,"hate, offensive"
+103,non-hostile
+104,non-hostile
+105,"hate, defamation, offensive"
+106,"hate, offensive"
+107,non-hostile
+108,fake
+109,non-hostile
+110,non-hostile
+111,offensive
+112,"hate, defamation, offensive"
+113,"hate, offensive"
+114,fake
+115,"hate, defamation, offensive"
+116,non-hostile
+117,hate
+118,fake
+119,non-hostile
+120,non-hostile
+121,non-hostile
+122,non-hostile
+123,non-hostile
+124,non-hostile
+125,non-hostile
+126,non-hostile
+127,non-hostile
+128,non-hostile
+129,fake
+130,non-hostile
+131,"hate, defamation, offensive"
+132,"hate, defamation, offensive"
+133,fake
+134,non-hostile
+135,fake
+136,non-hostile
+137,defamation
+138,non-hostile
+139,"hate, offensive"
+140,non-hostile
+141,non-hostile
+142,non-hostile
+143,non-hostile
+144,non-hostile
+145,non-hostile
+146,non-hostile
+147,non-hostile
+148,"hate, defamation, offensive"
+149,non-hostile
+150,non-hostile
+151,non-hostile
+152,non-hostile
+153,fake
+154,non-hostile
+155,non-hostile
+156,fake
+157,non-hostile
+158,fake
+159,non-hostile
+160,non-hostile
+161,"hate, defamation, offensive"
+162,non-hostile
+163,fake
+164,fake
+165,"hate, defamation, offensive"
+166,fake
+167,non-hostile
+168,fake
+169,non-hostile
+170,fake
+171,non-hostile
+172,non-hostile
+173,non-hostile
+174,"hate, defamation, offensive"
+175,non-hostile
+176,non-hostile
+177,fake
+178,non-hostile
+179,fake
+180,"hate, defamation, offensive"
+181,non-hostile
+182,non-hostile
+183,"hate, defamation, offensive"
+184,non-hostile
+185,non-hostile
+186,non-hostile
+187,"hate, offensive"
+188,non-hostile
+189,non-hostile
+190,non-hostile
+191,non-hostile
+192,"hate, defamation, offensive"
+193,non-hostile
+194,"hate, defamation, offensive"
+195,non-hostile
+196,non-hostile
+197,non-hostile
+198,fake
+199,non-hostile
+200,non-hostile
+201,fake
+202,non-hostile
+203,"hate, defamation, offensive"
+204,"hate, offensive"
+205,non-hostile
+206,non-hostile
+207,non-hostile
+208,"hate, offensive"
+209,fake
+210,non-hostile
+211,non-hostile
+212,fake
+213,"hate, defamation, offensive"
+214,"hate, defamation, offensive"
+215,"hate, defamation, offensive"
+216,fake
+217,"hate, defamation, offensive"
+218,non-hostile
+219,non-hostile
+220,fake
+221,"hate, offensive"
+222,fake
+223,"hate, defamation, offensive"
+224,non-hostile
+225,non-hostile
+226,"hate, offensive"
+227,non-hostile
+228,non-hostile
+229,"defamation, offensive"
+230,non-hostile
+231,non-hostile
+232,"hate, defamation, offensive"
+233,non-hostile
+234,non-hostile
+235,fake
+236,"hate, defamation, offensive"
+237,fake
+238,non-hostile
+239,non-hostile
+240,"hate, offensive"
+241,non-hostile
+242,non-hostile
+243,non-hostile
+244,non-hostile
+245,non-hostile
+246,non-hostile
+247,non-hostile
+248,non-hostile
+249,"hate, offensive"
+250,fake
+251,non-hostile
+252,non-hostile
+253,non-hostile
+254,non-hostile
+255,non-hostile
+256,"hate, defamation, offensive"
+257,"hate, defamation, offensive"
+258,non-hostile
+259,non-hostile
+260,fake
+261,"hate, defamation, offensive"
+262,non-hostile
+263,non-hostile
+264,non-hostile
+265,non-hostile
+266,non-hostile
+267,"hate, defamation, offensive"
+268,hate
+269,"hate, offensive"
+270,non-hostile
+271,non-hostile
+272,fake
+273,"hate, offensive"
+274,non-hostile
+275,fake
+276,non-hostile
+277,fake
+278,non-hostile
+279,non-hostile
+280,"hate, offensive"
+281,non-hostile
+282,non-hostile
+283,fake
+284,fake
+285,fake
+286,"hate, defamation, offensive"
+287,non-hostile
+288,non-hostile
+289,non-hostile
+290,non-hostile
+291,non-hostile
+292,non-hostile
+293,non-hostile
+294,defamation
+295,"hate, defamation, offensive"
+296,hate
+297,non-hostile
+298,"hate, defamation, offensive"
+299,non-hostile
+300,non-hostile
+301,"hate, defamation"
+302,offensive
+303,hate
+304,non-hostile
+305,non-hostile
+306,fake
+307,fake
+308,non-hostile
+309,"hate, defamation, offensive"
+310,non-hostile
+311,non-hostile
+312,hate
+313,non-hostile
+314,non-hostile
+315,"hate, offensive"
+316,"hate, offensive"
+317,"hate, defamation, offensive"
+318,non-hostile
+319,non-hostile
+320,non-hostile
+321,non-hostile
+322,"hate, defamation, offensive"
+323,non-hostile
+324,non-hostile
+325,non-hostile
+326,non-hostile
+327,"hate, defamation, offensive"
+328,non-hostile
+329,non-hostile
+330,non-hostile
+331,"hate, offensive"
+332,fake
+333,non-hostile
+334,"defamation, offensive"
+335,"hate, offensive"
+336,non-hostile
+337,non-hostile
+338,fake
+339,non-hostile
+340,non-hostile
+341,offensive
+342,non-hostile
+343,non-hostile
+344,non-hostile
+345,"hate, defamation, offensive"
+346,non-hostile
+347,non-hostile
+348,"hate, defamation, offensive"
+349,"hate, defamation, offensive"
+350,"hate, defamation, offensive"
+351,non-hostile
+352,non-hostile
+353,non-hostile
+354,non-hostile
+355,fake
+356,non-hostile
+357,non-hostile
+358,non-hostile
+359,offensive
+360,non-hostile
+361,fake
+362,non-hostile
+363,non-hostile
+364,"hate, defamation, offensive"
+365,non-hostile
+366,non-hostile
+367,non-hostile
+368,"hate, offensive"
+369,non-hostile
+370,"hate, defamation, offensive"
+371,non-hostile
+372,non-hostile
+373,non-hostile
+374,non-hostile
+375,non-hostile
+376,non-hostile
+377,non-hostile
+378,non-hostile
+379,non-hostile
+380,"hate, defamation, offensive"
+381,fake
+382,non-hostile
+383,"hate, offensive"
+384,offensive
+385,"hate, offensive"
+386,"hate, defamation, offensive"
+387,non-hostile
+388,fake
+389,"hate, defamation, offensive"
+390,non-hostile
+391,"hate, offensive"
+392,non-hostile
+393,non-hostile
+394,fake
+395,fake
+396,fake
+397,non-hostile
+398,"hate, offensive"
+399,non-hostile
+400,"hate, defamation, offensive"
+401,non-hostile
+402,non-hostile
+403,non-hostile
+404,"hate, offensive"
+405,non-hostile
+406,non-hostile
+407,"defamation, offensive"
+408,non-hostile
+409,hate
+410,"hate, defamation, offensive"
+411,"hate, offensive"
+412,"hate, defamation, offensive"
+413,non-hostile
+414,non-hostile
+415,"hate, defamation, offensive"
+416,non-hostile
+417,non-hostile
+418,non-hostile
+419,non-hostile
+420,non-hostile
+421,fake
+422,"hate, defamation, offensive"
+423,non-hostile
+424,non-hostile
+425,non-hostile
+426,fake
+427,"hate, offensive"
+428,non-hostile
+429,non-hostile
+430,non-hostile
+431,non-hostile
+432,"hate, defamation, offensive"
+433,"hate, offensive"
+434,"hate, defamation, offensive"
+435,"hate, defamation, offensive"
+436,non-hostile
+437,non-hostile
+438,"hate, offensive"
+439,non-hostile
+440,non-hostile
+441,non-hostile
+442,non-hostile
+443,non-hostile
+444,non-hostile
+445,non-hostile
+446,"hate, defamation, offensive"
+447,"hate, defamation, offensive"
+448,non-hostile
+449,non-hostile
+450,non-hostile
+451,"hate, offensive"
+452,non-hostile
+453,non-hostile
+454,non-hostile
+455,"hate, defamation, offensive"
+456,non-hostile
+457,non-hostile
+458,"hate, defamation, offensive"
+459,non-hostile
+460,"hate, defamation, offensive"
+461,non-hostile
+462,non-hostile
+463,"hate, defamation, offensive"
+464,fake
+465,non-hostile
+466,fake
+467,"hate, defamation, offensive"
+468,non-hostile
+469,fake
+470,non-hostile
+471,"hate, offensive"
+472,fake
+473,fake
+474,non-hostile
+475,non-hostile
+476,fake
+477,non-hostile
+478,fake
+479,offensive
+480,non-hostile
+481,non-hostile
+482,non-hostile
+483,non-hostile
+484,"hate, defamation, offensive"
+485,"hate, offensive"
+486,"hate, defamation, offensive"
+487,non-hostile
+488,non-hostile
+489,"hate, defamation, offensive"
+490,non-hostile
+491,"hate, offensive"
+492,non-hostile
+493,non-hostile
+494,non-hostile
+495,non-hostile
+496,non-hostile
+497,non-hostile
+498,fake
+499,non-hostile
+500,non-hostile
+501,non-hostile
+502,non-hostile
+503,defamation
+504,non-hostile
+505,fake
+506,non-hostile
+507,non-hostile
+508,"hate, defamation, offensive"
+509,"hate, defamation, offensive"
+510,"hate, defamation, offensive"
+511,non-hostile
+512,non-hostile
+513,non-hostile
+514,non-hostile
+515,non-hostile
+516,fake
+517,non-hostile
+518,non-hostile
+519,non-hostile
+520,hate
+521,non-hostile
+522,non-hostile
+523,non-hostile
+524,"hate, defamation, offensive"
+525,non-hostile
+526,fake
+527,non-hostile
+528,non-hostile
+529,"hate, defamation, offensive"
+530,"hate, defamation, offensive"
+531,"hate, defamation, offensive"
+532,non-hostile
+533,fake
+534,fake
+535,non-hostile
+536,"hate, defamation, offensive"
+537,non-hostile
+538,hate
+539,"hate, defamation, offensive"
+540,non-hostile
+541,non-hostile
+542,fake
+543,non-hostile
+544,"hate, defamation, offensive"
+545,hate
+546,non-hostile
+547,fake
+548,"hate, offensive"
+549,fake
+550,non-hostile
+551,non-hostile
+552,non-hostile
+553,non-hostile
+554,non-hostile
+555,fake
+556,non-hostile
+557,non-hostile
+558,non-hostile
+559,"hate, offensive"
+560,non-hostile
+561,non-hostile
+562,non-hostile
+563,non-hostile
+564,"hate, defamation, offensive"
+565,non-hostile
+566,non-hostile
+567,"hate, defamation, offensive"
+568,non-hostile
+569,non-hostile
+570,fake
+571,"hate, offensive"
+572,non-hostile
+573,"hate, defamation, offensive"
+574,fake
+575,"hate, defamation, offensive"
+576,"hate, offensive"
+577,"hate, defamation, offensive"
+578,non-hostile
+579,non-hostile
+580,non-hostile
+581,non-hostile
+582,non-hostile
+583,non-hostile
+584,non-hostile
+585,"hate, defamation, offensive"
+586,"hate, offensive"
+587,"hate, defamation, offensive"
+588,"hate, offensive"
+589,non-hostile
+590,fake
+591,defamation
+592,non-hostile
+593,"hate, defamation, offensive"
+594,non-hostile
+595,"hate, offensive"
+596,"hate, defamation, offensive"
+597,non-hostile
+598,fake
+599,"hate, defamation, offensive"
+600,non-hostile
+601,"hate, defamation, offensive"
+602,fake
+603,"hate, offensive"
+604,non-hostile
+605,non-hostile
+606,non-hostile
+607,fake
+608,fake
+609,fake
+610,"hate, defamation, offensive"
+611,fake
+612,fake
+613,"hate, defamation, offensive"
+614,non-hostile
+615,fake
+616,fake
+617,non-hostile
+618,non-hostile
+619,"hate, offensive"
+620,fake
+621,non-hostile
+622,"hate, offensive"
+623,non-hostile
+624,"hate, defamation, offensive"
+625,fake
+626,non-hostile
+627,non-hostile
+628,fake
+629,fake
+630,"hate, offensive"
+631,offensive
+632,non-hostile
+633,non-hostile
+634,"hate, offensive"
+635,non-hostile
+636,fake
+637,non-hostile
+638,non-hostile
+639,"hate, defamation, offensive"
+640,fake
+641,non-hostile
+642,"hate, defamation, offensive"
+643,"hate, defamation, offensive"
+644,non-hostile
+645,non-hostile
+646,"hate, defamation, offensive"
+647,"hate, offensive"
+648,non-hostile
+649,"hate, offensive"
+650,"hate, defamation, offensive"
+651,"hate, defamation, offensive"
+652,non-hostile
+653,non-hostile
+654,non-hostile
+655,fake
+656,non-hostile
+657,non-hostile
+658,non-hostile
+659,non-hostile
+660,fake
+661,non-hostile
+662,"hate, defamation, offensive"
+663,fake
+664,non-hostile
+665,"hate, offensive"
+666,non-hostile
+667,non-hostile
+668,non-hostile
+669,non-hostile
+670,"hate, defamation, offensive"
+671,offensive
+672,offensive
+673,non-hostile
+674,"hate, offensive"
+675,non-hostile
+676,fake
+677,"hate, defamation, offensive"
+678,non-hostile
+679,"hate, defamation, offensive"
+680,"hate, offensive"
+681,non-hostile
+682,fake
+683,"hate, defamation, offensive"
+684,"hate, defamation, offensive"
+685,non-hostile
+686,non-hostile
+687,non-hostile
+688,"hate, defamation, offensive"
+689,"hate, defamation, offensive"
+690,non-hostile
+691,"hate, defamation, offensive"
+692,fake
+693,"hate, defamation, offensive"
+694,non-hostile
+695,fake
+696,"hate, offensive"
+697,non-hostile
+698,non-hostile
+699,non-hostile
+700,fake
+701,"hate, defamation, offensive"
+702,non-hostile
+703,"hate, defamation, offensive"
+704,"hate, defamation, offensive"
+705,non-hostile
+706,"hate, defamation, offensive"
+707,non-hostile
+708,"hate, offensive"
+709,non-hostile
+710,non-hostile
+711,"hate, defamation, offensive"
+712,non-hostile
+713,fake
+714,non-hostile
+715,non-hostile
+716,non-hostile
+717,non-hostile
+718,non-hostile
+719,fake
+720,non-hostile
+721,"hate, defamation, offensive"
+722,non-hostile
+723,"hate, defamation, offensive"
+724,fake
+725,"hate, defamation, offensive"
+726,"hate, defamation, offensive"
+727,non-hostile
+728,non-hostile
+729,defamation
+730,fake
+731,non-hostile
+732,non-hostile
+733,"hate, defamation, offensive"
+734,non-hostile
+735,"defamation, offensive"
+736,fake
+737,"hate, defamation, offensive"
+738,fake
+739,fake
+740,non-hostile
+741,non-hostile
+742,non-hostile
+743,"hate, defamation, offensive"
+744,non-hostile
+745,non-hostile
+746,non-hostile
+747,fake
+748,non-hostile
+749,non-hostile
+750,non-hostile
+751,non-hostile
+752,non-hostile
+753,non-hostile
+754,non-hostile
+755,non-hostile
+756,non-hostile
+757,non-hostile
+758,non-hostile
+759,non-hostile
+760,non-hostile
+761,non-hostile
+762,non-hostile
+763,non-hostile
+764,fake
+765,fake
+766,fake
+767,fake
+768,non-hostile
+769,"hate, defamation, offensive"
+770,non-hostile
+771,non-hostile
+772,non-hostile
+773,non-hostile
+774,"hate, defamation, offensive"
+775,non-hostile
+776,non-hostile
+777,offensive
+778,non-hostile
+779,"hate, defamation, offensive"
+780,"hate, defamation, offensive"
+781,"hate, defamation, offensive"
+782,fake
+783,non-hostile
+784,non-hostile
+785,fake
+786,non-hostile
+787,non-hostile
+788,non-hostile
+789,non-hostile
+790,fake
+791,non-hostile
+792,non-hostile
+793,non-hostile
+794,non-hostile
+795,non-hostile
+796,"hate, defamation, offensive"
+797,"hate, offensive"
+798,"defamation, offensive"
+799,non-hostile
+800,offensive
+801,non-hostile
+802,non-hostile
+803,"hate, defamation, offensive"
+804,non-hostile
+805,non-hostile
+806,non-hostile
+807,"hate, defamation, offensive"
+808,"hate, defamation, offensive"
+809,non-hostile
+810,non-hostile
+811,fake
